@@ -13,8 +13,7 @@ Se recorre la lista desde el primer elemento hasta el último. En cada posición
 
 ## Análisis de complejidad
 
-La complejidad de un algoritmo describe cuánto trabajo se necesita realizar en función del tamaño de los datos de entrada (n). 
-Se expresa mediante la notación Big O, que indica cómo crece el tiempo de ejecución conforme aumenta dicho tamaño.
+La complejidad temporal de la búsqueda secuencial es O(n), donde n es el número de elementos de la lista
 
 
 | Aspecto                            | Valor                                                           
